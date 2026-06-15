@@ -24,7 +24,7 @@ export default function PrivacyPage() {
       <h2 className="mb-2 mt-8 text-lg font-semibold">Contacto</h2>
       <p>
         Para cualquier consulta sobre tus datos, escríbenos a{' '}
-        <a href="mailto:ventas@nativapress.co" className="underline">ventas@nativapress.co</a>.
+        <a href="mailto:reservas@casapalma.mx" className="underline">reservas@casapalma.mx</a>.
       </p>
     </main>
   )

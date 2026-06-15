@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Casa Palma Config",
+  "type": "object",
+  "required": ["brand", "palette", "fonts", "sections"],
+  "properties": {
+    "brand": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string", "description": "Nombre del hotel" },
+        "tagline": { "type": "string", "description": "Tagline principal" },
+        "location": { "type": "string", "description": "Ubicación" },
+        "established": { "type": "string", "description": "Año de fundación" },
+        "rooms": { "type": "string", "description": "Número de habitaciones" },
+        "coordinates": { "type": "string", "description": "Coordenadas GPS" }
+      }
+    },
+    "palette": { "type": "object" },
+    "fonts": { "type": "object" },
+    "sections": {
+      "type": "object",
+      "properties": {
+        "navbar": { "type": "object" },
+        "hero": { "type": "object" },
+        "manifesto": { "type": "object" },
+        "rooms": { "type": "object" },
+        "experience": { "type": "object" },
+        "gallery": { "type": "object" },
+        "location": { "type": "object" },
+        "reservation": { "type": "object" },
+        "footer": { "type": "object" }
+      }
+    },
+    "social": { "type": "object" }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "seo": {
+    "title": "Casa Palma",
+    "faviconUrl": "",
+    "ogImageUrl": "",
+    "description": "Oaxaca no se explica. Se vive."
+  },
+  "brand": {
+    "name": "Casa Palma",
+    "rooms": "8",
+    "tagline": "Oaxaca no se explica. Se vive.",
+    "location": "Valles Centrales, Oaxaca, México",
+    "coordinates": "17.0732° N · 96.7266° W",
+    "established": "2019"
+  },
+  "fonts": {
+    "body": "Plus Jakarta Sans",
+    "heading": "Fraunces"
+  },
+  "social": {
+    "instagram": "https://instagram.com/casapalma.oaxaca"
+  },
+  "palette": {
+    "bg": "#F2EDE4",
+    "text": "#1A1510",
+    "muted": "#9A9088",
+    "primary": "#7A4F2E",
+    "secondary": "#C8A870"
+  },
+  "sections": {
+    "hero": {
+      "eyebrow": "Oaxaca · México · 8 habitaciones",
+      "visible": true,
+      "imageUrl": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=2560&q=85&auto=format&fit=crop",
+      "detailCaption": "Disponible desde marzo 2019",
+      "headlineLines": [
+        "Oaxaca no",
+        "se explica.",
+        "Se vive."
+      ],
+      "detailImageUrl": "https://images.unsplash.com/photo-1615873968403-89e068629265?w=600&q=85&auto=format&fit=crop",
+      "headlineAccent": "Se vive."
+    },
+    "rooms": {
+      "items": [
+        {
+          "num": "01",
+          "price": "desde $ 280 USD / noche",
+          "eyebrow": "Hab. 01 · Suite Jardín",
+          "imageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=1800&q=85&auto=format&fit=crop",
+          "nameLines": [
+            "La del",
+            "Árbol"
+          ],
+          "description": "Tiene una palma en el patio que lleva más años que la casa. Por las mañanas, la luz se filtra diferente aquí.",
+          "hoverImageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400&q=70&auto=format&fit=crop"
+        },
+        {
+          "num": "02",
+          "price": "desde $ 320 USD / noche",
+          "eyebrow": "Hab. 02 · Terracería",
+          "imageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1800&q=85&auto=format&fit=crop",
+          "nameLines": [
+            "La del",
+            "Pozo"
+          ],
+          "description": "El pozo de agua ya no funciona pero todavía suena en las noches. La habitación que más huele a copal.",
+          "hoverImageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400&q=70&auto=format&fit=crop"
+        },
+        {
+          "num": "03",
+          "price": "desde $ 380 USD / noche",
+          "eyebrow": "Hab. 03 · Rooftop",
+          "imageUrl": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=1800&q=85&auto=format&fit=crop",
+          "nameLines": [
+            "La del",
+            "Cielo"
+          ],
+          "description": "La única con techo de cristal. En agosto llueve arriba tuyo. En diciembre duermes viendo las estrellas.",
+          "hoverImageUrl": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=400&q=70&auto=format&fit=crop"
+        }
+      ],
+      "visible": true
+    },
+    "footer": {
+      "email": "reservas@casapalma.mx",
+      "phone": "+52 951 000 0000",
+      "visible": true,
+      "navLinks": [
+        {
+          "href": "#habitaciones",
+          "label": "Habitaciones"
+        },
+        {
+          "href": "#casa",
+          "label": "La Casa"
+        },
+        {
+          "href": "#entorno",
+          "label": "El Entorno"
+        },
+        {
+          "href": "#reserva",
+          "label": "Reservar"
+        }
+      ],
+      "copyright": "Casa Palma · Oaxaca, México · Todos los derechos reservados.",
+      "contactLabel": "Contacto",
+      "exploreLabel": "Explora",
+      "marqueeItems": [
+        "Casa Palma",
+        "Oaxaca",
+        "8 Habitaciones",
+        "Valles Centrales",
+        "Desde 2019"
+      ],
+      "instagramLabel": "Instagram"
+    },
+    "navbar": {
+      "links": [
+        {
+          "href": "#habitaciones",
+          "label": "Habitaciones"
+        },
+        {
+          "href": "#casa",
+          "label": "La Casa"
+        },
+        {
+          "href": "#entorno",
+          "label": "Oaxaca"
+        },
+        {
+          "href": "#reserva",
+          "label": "Reservar"
+        }
+      ],
+      "ctaHref": "#reserva",
+      "visible": true,
+      "ctaLabel": "Disponibilidad"
+    },
+    "gallery": {
+      "items": [
+        {
+          "label": "Textil de las habitaciones",
+          "imageUrl": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=900&q=85&auto=format&fit=crop"
+        },
+        {
+          "label": "El patio de día",
+          "imageUrl": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb3?w=1400&q=85&auto=format&fit=crop"
+        },
+        {
+          "label": "Madera de la arquitectura",
+          "imageUrl": "https://images.unsplash.com/photo-1604014237800-1c9102c219da?w=900&q=85&auto=format&fit=crop"
+        },
+        {
+          "label": "El desayuno oaxaqueño",
+          "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=900&q=85&auto=format&fit=crop"
+        },
+        {
+          "label": "Luz proyectando sombra",
+          "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=900&q=85&auto=format&fit=crop"
+        }
+      ],
+      "visible": true,
+      "headlineLines": [
+        "El material",
+        "de los días."
+      ],
+      "headlineAccent": "de los días."
+    },
+    "location": {
+      "stats": [
+        {
+          "label": "del Zócalo de Oaxaca",
+          "value": "40 min"
+        },
+        {
+          "label": "sobre el nivel del mar",
+          "value": "1,550 m"
+        },
+        {
+          "label": "de la destilería de mezcal artesanal más cercana",
+          "value": "15 min"
+        }
+      ],
+      "eyebrow": "Valles Centrales · Oaxaca · México",
+      "visible": true,
+      "howToArrive": [
+        "Vuelo a Oaxaca (OAX) · 1h desde CDMX, 3.5h desde Miami",
+        "Taxi del aeropuerto: $350 MXN · 45 min",
+        "Renta de auto: recomendada para libertad de explorar"
+      ],
+      "headlineLines": [
+        "40 minutos del",
+        "centro histórico.",
+        "Un mundo aparte."
+      ],
+      "headlineAccent": "Un mundo aparte."
+    },
+    "manifesto": {
+      "body": "Casa Palma no tiene recepción. Tiene una cocina donde el desayuno siempre está listo a la hora que tú decidas. No tiene botones. Tiene llaves de madera y puertas que chirrían de forma deliberada. Cada habitación tiene un nombre, no un número. Porque los números los usa quien tiene más de ocho habitaciones.",
+      "facts": [
+        "8 habitaciones · construidas en 2019",
+        "40 min del centro histórico de Oaxaca",
+        "Arquitectura de tierra y madera local"
+      ],
+      "eyebrow": "La casa · Desde 2019",
+      "visible": true,
+      "headlineLines": [
+        "La tierra",
+        "que construye",
+        "el descanso."
+      ],
+      "headlineAccent": "el descanso."
+    },
+    "preloader": {
+      "loadingText": "Cargando tu próxima escapada"
+    },
+    "experience": {
+      "title": "Un día en\nCasa Palma.",
+      "moments": [
+        {
+          "body": "El desayuno aparece cuando tú quieras. Chilaquiles, fruta, café de la región. No hay horario fijo porque esta es tu casa.",
+          "time": "06:30 — 10:00",
+          "title": "La mañana",
+          "imageUrl": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=1600&q=85&auto=format&fit=crop"
+        },
+        {
+          "body": "El valle a las 11am es de una calma que no existe en ciudades. La hamaca del jardín raramente está libre.",
+          "time": "10:00 — 14:00",
+          "title": "El silencio",
+          "imageUrl": "https://images.unsplash.com/photo-1601918774946-25832a4be0d6?w=1600&q=85&auto=format&fit=crop"
+        },
+        {
+          "body": "Tenemos un mapa de los 12 lugares que nadie conoce pero debería. Mezcalerías, talleres artesanales, mercados sin turistas.",
+          "time": "14:00 — 20:00",
+          "title": "La salida",
+          "imageUrl": "https://images.unsplash.com/photo-1582632431328-061ec92daa50?w=1600&q=85&auto=format&fit=crop"
+        },
+        {
+          "body": "La casa de noche huele diferente. El patio se ilumina con velas. El mezcal está en el aparador. Las llaves están bajo la maceta.",
+          "time": "20:00 — cuando quieras",
+          "title": "La vuelta",
+          "imageUrl": "https://images.unsplash.com/photo-1600240644455-3edc55c375fe?w=1600&q=85&auto=format&fit=crop"
+        }
+      ],
+      "visible": true
+    },
+    "reservation": {
+      "body": "Las reservas se confirman por correo en menos de 24 horas. Sin tarjeta de crédito hasta la confirmación. Cancelación gratuita hasta 7 días antes.",
+      "email": "reservas@casapalma.mx",
+      "eyebrow": "Disponibilidad 2025 · Máximo 8 huéspedes",
+      "visible": true,
+      "whatsapp": "+52 951 000 0000",
+      "buttonLabel": "Verificar disponibilidad",
+      "arrivalLabel": "Llegada",
+      "contactPrefix": "O escríbenos:",
+      "headlineLines": [
+        "¿Cuándo",
+        "nos visitas?"
+      ],
+      "whatsappLabel": "WhatsApp:",
+      "departureLabel": "Salida"
+    }
+  },
+  "analytics": {
+    "id": "",
+    "provider": ""
+  }
+}
