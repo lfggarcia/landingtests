@@ -1,16 +1,16 @@
 import type { Metadata } from 'next'
-import { Bebas_Neue, Inter } from 'next/font/google'
+import { Barlow_Condensed, Inter } from 'next/font/google'
 import './globals.css'
 
-const bebasNeue = Bebas_Neue({ subsets: ['latin'], variable: '--font-bebas-neue', weight: ['400'], display: 'swap' })
+const barlowCondensed = Barlow_Condensed({ subsets: ['latin'], variable: '--font-barlow-condensed', weight: ['400', '600', '700', '800', '900'], display: 'swap' })
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter', display: 'swap' })
 
 export const metadata: Metadata = {
-  title: "VOLTAGE",
-  description: "The drop that changes everything.",
+  title: "Nativa Press Co.",
+  description: "Bebidas funcionales de temporada para cadenas premium y foodservice",
 }
 
-const fontVars = [bebasNeue.variable, inter.variable].join(' ')
+const fontVars = [barlowCondensed.variable, inter.variable].join(' ')
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
