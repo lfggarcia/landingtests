@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Seasonal Juice Template Config",
+  "type": "object",
+  "required": ["brand", "palette", "fonts", "sections"],
+  "properties": {
+    "brand": { "type": "object" },
+    "palette": { "type": "object" },
+    "fonts": { "type": "object" },
+    "cursor": { "type": "object" },
+    "sections": { "type": "object" },
+    "social": { "type": "object" }
+  }
+}

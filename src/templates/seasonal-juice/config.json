@@ -1,0 +1,271 @@
+{
+  "seo": {
+    "title": "Nativa Press Co.",
+    "faviconUrl": "",
+    "ogImageUrl": "",
+    "description": "Bebidas funcionales de temporada para cadenas premium y foodservice"
+  },
+  "brand": {
+    "name": "Nativa Press Co.",
+    "tagline": "Bebidas funcionales de temporada para cadenas premium y foodservice"
+  },
+  "fonts": {
+    "body": "Inter",
+    "heading": "Barlow Condensed"
+  },
+  "cursor": {
+    "size": 56,
+    "label": "Harvest",
+    "visible": true
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/company/nativa-press-co",
+    "instagram": "https://instagram.com/nativapressco"
+  },
+  "palette": {
+    "bg": "#0F1912",
+    "text": "#F2F7EE",
+    "muted": "#AFC3A8",
+    "primary": "#95E35D",
+    "secondary": "#FFB347"
+  },
+  "sections": {
+    "cta": {
+      "title": "Tu primer lote piloto está a un correo de distancia",
+      "button": {
+        "href": "mailto:ventas@nativapress.co",
+        "label": "Solicitar lote piloto"
+      },
+      "eyebrow": "Da el primer paso",
+      "visible": true,
+      "description": "Sin burocracia. Cuéntanos tu canal de venta y volumen estimado y te preparamos una propuesta con sabores disponibles en 48 horas.",
+      "secondaryHref": "#coleccion",
+      "secondaryLabel": "Ver catálogo de temporada ↓"
+    },
+    "faq": {
+      "items": [
+        {
+          "a": "Trabajamos desde lotes de prueba de 50 unidades por SKU para que puedas validar la rotación en tu punto de venta antes de comprometer un pedido mayor. Sin costo de muestrario para distribuidores nuevos con carta de presentación.",
+          "q": "¿Qué volumen mínimo necesito para empezar?"
+        },
+        {
+          "a": "Actualizamos la colección cada 4 a 6 semanas según disponibilidad de fruta en punto óptimo. Te notificamos con 10 días de anticipación para que puedas planear tu pedido con los sabores entrantes y salientes.",
+          "q": "¿Con qué frecuencia cambia el catálogo de sabores?"
+        },
+        {
+          "a": "Cada botella lleva código de lote que incluye fecha de prensado, origen del campo, variedad de fruta y operador de turno. Lo puedes escanear con el sistema de tu almacén o verificar directo en nuestro portal de proveedores.",
+          "q": "¿Cómo funciona la trazabilidad de lote?"
+        },
+        {
+          "a": "Sin conservantes, el shelf life es de 4 a 6 días en refrigeración continua. Dimensionamos los pedidos para que el producto llegue a tu cliente con mínimo 3 días de vida útil. Cold-chain es condición de servicio, no opción.",
+          "q": "¿Cuánto dura el producto en almacén?"
+        },
+        {
+          "a": "Sí. Contamos con certificación orgánica NOM-037, HACCP activo y BPA en proceso. Para cuentas retail premium podemos compartir la documentación completa bajo NDA antes de cerrar condiciones.",
+          "q": "¿Tienen certificaciones para exportación o retail premium?"
+        }
+      ],
+      "title": "Preguntas frecuentes",
+      "eyebrow": "Dudas frecuentes",
+      "visible": true
+    },
+    "hero": {
+      "cta": {
+        "primary": {
+          "href": "#contact",
+          "label": "Solicitar lote piloto"
+        },
+        "secondary": {
+          "href": "#coleccion",
+          "label": "Ver catálogo vivo"
+        }
+      },
+      "eyebrow": "Temporada activa · 2026",
+      "visible": true,
+      "headline": "Jugos de temporada con trazabilidad lote a lote.",
+      "imageUrl": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?auto=format&fit=crop&w=1400&q=80",
+      "subheadline": "Diseñamos sabores por ventana de cosecha y los llevamos a retail en menos de 24 horas de prensado."
+    },
+    "footer": {
+      "email": "ventas@nativapress.co",
+      "links": [
+        {
+          "href": "#coleccion",
+          "label": "Colección"
+        },
+        {
+          "href": "#proceso",
+          "label": "Proceso"
+        },
+        {
+          "href": "#faq",
+          "label": "Preguntas"
+        }
+      ],
+      "tagline": "Bebidas funcionales de temporada para cadenas premium y foodservice.",
+      "visible": true,
+      "copyright": "Nativa Press Co. Todos los derechos reservados.",
+      "statLabel": "cumplimiento cold-chain",
+      "statValue": "97.4",
+      "statSuffix": "%"
+    },
+    "navbar": {
+      "links": [
+        {
+          "href": "#coleccion",
+          "label": "Colección"
+        },
+        {
+          "href": "#proceso",
+          "label": "Proceso"
+        },
+        {
+          "href": "#faq",
+          "label": "Preguntas"
+        }
+      ],
+      "ctaHref": "#contact",
+      "visible": true,
+      "ctaLabel": "Solicitar lote piloto"
+    },
+    "metrics": {
+      "items": [
+        {
+          "label": "fruta a botella",
+          "value": 18,
+          "suffix": "h"
+        },
+        {
+          "label": "cumplimiento cold-chain",
+          "value": 97.4,
+          "suffix": "%",
+          "decimals": 1
+        },
+        {
+          "label": "tiendas activas",
+          "value": 186,
+          "suffix": "+"
+        },
+        {
+          "label": "rotaciones anuales",
+          "value": 43,
+          "suffix": ""
+        }
+      ],
+      "visible": true
+    },
+    "process": {
+      "steps": [
+        {
+          "bg": "rgba(149,227,93,0.08)",
+          "num": "01",
+          "title": "Señal de cosecha",
+          "accent": "#95E35D",
+          "description": "Nuestro equipo de campo monitorea el punto brix de cada lote. Solo aceptamos fruta que llegó a su ventana óptima de azúcares y acidez."
+        },
+        {
+          "bg": "rgba(255,179,71,0.08)",
+          "num": "02",
+          "title": "Prensado en frío",
+          "accent": "#FFB347",
+          "description": "Sin calor, sin pasteurización. El prensado ocurre en las primeras 6 horas de recibida la fruta. Cada lote se etiqueta con origen y hora de prensado."
+        },
+        {
+          "bg": "rgba(89,185,255,0.08)",
+          "num": "03",
+          "title": "Cadena de frío y despacho",
+          "accent": "#59B9FF",
+          "description": "Refrigeración continua desde prensado hasta entrega. El destino recibe el pedido con temperatura y número de lote verificados."
+        }
+      ],
+      "title": "De campo a punto de venta",
+      "eyebrow": "Así funciona",
+      "visible": true
+    },
+    "showcase": {
+      "cards": [
+        {
+          "tag": "Más pedido",
+          "title": "Citrus Dawn",
+          "accent": "#FF8C42",
+          "season": "Temporada: ene — abr",
+          "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd5bba3f?w=900&q=85&auto=format&fit=crop",
+          "description": "Naranja valencia, mandarina tardía y jengibre suave. Perfil para desayuno en retail premium."
+        },
+        {
+          "tag": null,
+          "title": "Berry Shift",
+          "accent": "#C0395A",
+          "season": "Temporada: dic — mar",
+          "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=900&q=85&auto=format&fit=crop",
+          "description": "Frutos rojos de altura y manzana verde. Perfil antioxidante para clubs y hoteles."
+        },
+        {
+          "tag": "Nuevo formato",
+          "title": "Green Noon",
+          "accent": "#4A9E30",
+          "season": "Todo el año",
+          "imageUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=900&q=85&auto=format&fit=crop",
+          "description": "Pepino, kale baby, piña y menta fresca. Alta rotación en oficinas wellness."
+        },
+        {
+          "tag": null,
+          "title": "Sunset Root",
+          "accent": "#E8650A",
+          "season": "Temporada: feb — jun",
+          "imageUrl": "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=900&q=85&auto=format&fit=crop",
+          "description": "Zanahoria, naranja, cúrcuma y pimienta. Activo antinflamatorio para línea funcional."
+        },
+        {
+          "tag": null,
+          "title": "Tropical Dew",
+          "accent": "#D4A020",
+          "season": "Temporada: may — sep",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=900&q=85&auto=format&fit=crop",
+          "description": "Piña, coco y maracuyá. Alta rotación en aeropuertos y tiendas de conveniencia."
+        }
+      ],
+      "title": "Colección actual por estacionalidad",
+      "eyebrow": "Colección actual",
+      "visible": true,
+      "subtitle": "Cada fórmula se activa con materia prima en punto óptimo de azúcares y acidez."
+    },
+    "manifesto": {
+      "text": "Los mejores ingredientes no necesitan disfraz. Solo necesitan respeto, frío y velocidad. Lo que llega en 18 horas no se puede falsificar con conservantes.",
+      "eyebrow": "Nuestra postura",
+      "visible": true
+    },
+    "testimonials": {
+      "items": [
+        {
+          "name": "Alejandro Fierro",
+          "role": "Director de Compras, Cadena Gourmet Mx",
+          "text": "Llevamos 4 meses con Nativa Press en nuestras 12 tiendas. El índice de caducidad bajó a cero porque el producto rota antes de los 3 días. Nunca habíamos tenido eso con un proveedor de jugos.",
+          "accent": "#95E35D",
+          "avatarUrl": ""
+        },
+        {
+          "name": "Valeria Montes",
+          "role": "Category Manager, Distribuidora Holistic",
+          "text": "La trazabilidad por lote nos dio el argumento que nos faltaba con nuestros clientes B2B premium. Cuando puedes decirle a un hotel exactamente de qué campo viene el mango, eso cierra el trato.",
+          "accent": "#FFB347",
+          "avatarUrl": ""
+        },
+        {
+          "name": "Rodrigo Castellanos",
+          "role": "Chef Ejecutivo, Grupo Hotelero Aldea",
+          "text": "El equipo de Nativa cambia la fórmula cuando el sabor del fruto cambia de región. Eso nunca lo habíamos visto. Nuestros clientes notan la diferencia semana a semana.",
+          "accent": "#95E35D",
+          "avatarUrl": ""
+        }
+      ],
+      "title": "Relaciones que se sostienen",
+      "eyebrow": "Lo que dicen los compradores",
+      "visible": true
+    }
+  },
+  "analytics": {
+    "id": "",
+    "provider": ""
+  }
+}
