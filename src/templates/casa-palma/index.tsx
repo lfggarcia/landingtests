@@ -18,12 +18,20 @@ const ManifestoSection = dynamic(
   () => import("./components/ManifestoSection").then((m) => ({ default: m.ManifestoSection })),
   { ssr: false }
 );
+const RoomsSection = dynamic(
+  () => import("./components/RoomsSection").then((m) => ({ default: m.RoomsSection })),
+  { ssr: false }
+);
 const ExperienceSection = dynamic(
   () => import("./components/ExperienceSection").then((m) => ({ default: m.ExperienceSection })),
   { ssr: false }
 );
 const GallerySection = dynamic(
   () => import("./components/GallerySection").then((m) => ({ default: m.GallerySection })),
+  { ssr: false }
+);
+const LocationSection = dynamic(
+  () => import("./components/LocationSection").then((m) => ({ default: m.LocationSection })),
   { ssr: false }
 );
 const ReservationSection = dynamic(
@@ -192,8 +200,10 @@ export default function CasaPalmaTemplate({ config }: CasaPalmaTemplateProps) {
         <main>
           <div data-section="hero" style={{ display: 'contents' }}>{sec.hero?.visible !== false && <HeroSection />}</div>
           <div data-section="manifesto" style={{ display: 'contents' }}>{sec.manifesto?.visible !== false && <ManifestoSection />}</div>
+          <div data-section="rooms" style={{ display: 'contents' }}>{sec.rooms?.visible !== false && <RoomsSection />}</div>
           <div data-section="experience" style={{ display: 'contents' }}>{sec.experience?.visible !== false && <ExperienceSection />}</div>
           <div data-section="gallery" style={{ display: 'contents' }}>{sec.gallery?.visible !== false && <GallerySection />}</div>
+          <div data-section="location" style={{ display: 'contents' }}>{sec.location?.visible !== false && <LocationSection />}</div>
           <div data-section="reservation" style={{ display: 'contents' }}>{sec.reservation?.visible !== false && <ReservationSection />}</div>
         </main>
         <div data-section="footer" style={{ display: 'contents' }}>{sec.footer?.visible !== false && <Footer />}</div>

@@ -41,6 +41,47 @@
       "detailImageUrl": "https://images.unsplash.com/photo-1615873968403-89e068629265?w=600&q=85&auto=format&fit=crop",
       "headlineAccent": "Se vive."
     },
+    "rooms": {
+      "items": [
+        {
+          "num": "01",
+          "price": "desde $ 280 USD / noche",
+          "eyebrow": "Hab. 01 · Suite Jardín",
+          "imageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=1800&q=85&auto=format&fit=crop",
+          "nameLines": [
+            "La del",
+            "Árbol"
+          ],
+          "description": "Tiene una palma en el patio que lleva más años que la casa. Por las mañanas, la luz se filtra diferente aquí.",
+          "hoverImageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400&q=70&auto=format&fit=crop"
+        },
+        {
+          "num": "02",
+          "price": "desde $ 320 USD / noche",
+          "eyebrow": "Hab. 02 · Terracería",
+          "imageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1800&q=85&auto=format&fit=crop",
+          "nameLines": [
+            "La del",
+            "Pozo"
+          ],
+          "description": "El pozo de agua ya no funciona pero todavía suena en las noches. La habitación que más huele a copal.",
+          "hoverImageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400&q=70&auto=format&fit=crop"
+        },
+        {
+          "num": "03",
+          "price": "desde $ 380 USD / noche",
+          "eyebrow": "Hab. 03 · Rooftop",
+          "imageUrl": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=1800&q=85&auto=format&fit=crop",
+          "nameLines": [
+            "La del",
+            "Cielo"
+          ],
+          "description": "La única con techo de cristal. En agosto llueve arriba tuyo. En diciembre duermes viendo las estrellas.",
+          "hoverImageUrl": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=400&q=70&auto=format&fit=crop"
+        }
+      ],
+      "visible": true
+    },
     "footer": {
       "email": "reservas@casapalma.mx",
       "phone": "+52 951 000 0000",
@@ -127,6 +168,35 @@
         "de los días."
       ],
       "headlineAccent": "de los días."
+    },
+    "location": {
+      "stats": [
+        {
+          "label": "del Zócalo de Oaxaca",
+          "value": "40 min"
+        },
+        {
+          "label": "sobre el nivel del mar",
+          "value": "1,550 m"
+        },
+        {
+          "label": "de la destilería de mezcal artesanal más cercana",
+          "value": "15 min"
+        }
+      ],
+      "eyebrow": "Valles Centrales · Oaxaca · México",
+      "visible": true,
+      "howToArrive": [
+        "Vuelo a Oaxaca (OAX) · 1h desde CDMX, 3.5h desde Miami",
+        "Taxi del aeropuerto: $350 MXN · 45 min",
+        "Renta de auto: recomendada para libertad de explorar"
+      ],
+      "headlineLines": [
+        "40 minutos del",
+        "centro histórico.",
+        "Un mundo aparte."
+      ],
+      "headlineAccent": "Un mundo aparte."
     },
     "manifesto": {
       "body": "Casa Palma no tiene recepción. Tiene una cocina donde el desayuno siempre está listo a la hora que tú decidas. No tiene botones. Tiene llaves de madera y puertas que chirrían de forma deliberada. Cada habitación tiene un nombre, no un número. Porque los números los usa quien tiene más de ocho habitaciones.",
