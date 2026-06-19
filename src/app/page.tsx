@@ -1,4 +1,4 @@
-import Template from '@/templates/casa-palma'
+import Template from '@/templates/spark'
 
 export default function Page() {
   return <Template />
