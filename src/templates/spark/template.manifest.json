@@ -1,0 +1,16 @@
+{
+  "slug": "spark",
+  "tier": "simple",
+  "name": "Spark",
+  "description": "Dark minimal FOMO page with countdown timer and waitlist counter. For SaaS and crypto pre-launches.",
+  "tags": ["dark", "minimal", "saas", "countdown", "fomo", "crypto"],
+  "preview": {
+    "accent": "#6366f1"
+  },
+  "animations": "framer-motion",
+  "dependencies": {
+    "lucide-react": "^0.400.0",
+    "framer-motion": "^12.40.0"
+  },
+  "devDependencies": {}
+}
