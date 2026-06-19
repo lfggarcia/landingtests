@@ -32,16 +32,24 @@ export async function submitLead(
 
   let url: string
   switch (provider) {
-    case 'formspree':
-      url = `https://formspree.io/f/${endpoint}`
+    case 'formspree': {
+      const formId = endpoint.startsWith('https://formspree.io/f/')
+        ? endpoint.slice('https://formspree.io/f/'.length)
+        : endpoint
+      url = `https://formspree.io/f/${formId}`
       break
+    }
     case 'web3forms':
       url = 'https://api.web3forms.com/submit'
       body.append('access_key', endpoint)
       break
-    case 'getform':
-      url = `https://getform.io/f/${endpoint}`
+    case 'getform': {
+      const formId = endpoint.startsWith('https://getform.io/f/')
+        ? endpoint.slice('https://getform.io/f/'.length)
+        : endpoint
+      url = `https://getform.io/f/${formId}`
       break
+    }
     case 'custom':
       url = endpoint
       break
